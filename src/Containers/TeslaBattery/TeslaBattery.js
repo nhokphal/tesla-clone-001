@@ -7,7 +7,7 @@ class TeslaBattery extends React.Component {
   render() {
     return (
       <form className="tesla-battery">
-        <h1>Range Per Charge</h1>
+        <h1>Welcome</h1>
         <TeslaCar wheelsize={19} />
         <TeslaNotice />        
       </form>

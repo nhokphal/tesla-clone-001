@@ -1,6 +1,9 @@
 .tesla-battery {
-  width: 1050px;
+  width: 100%;
   margin: 0 auto;
+  padding-top: 0;
+
+  
 }
 .tesla-battery h1 {
   font-family: 'RobotoNormal';
@@ -8,4 +11,5 @@
   font-size: 38px;
   text-align: center;
   letter-spacing: 3px;
+  Background:orange;
 }
